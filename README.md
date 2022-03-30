@@ -1,2 +1,6 @@
 # NLP-text-generation
-NLP project
+NLP command project
+
+Запуск:
+./lstm.py  scripts/<file_name>
+ 
